@@ -93,3 +93,4 @@ while 1:
     clock.tick(600)
 
 print("hi")
+print("hi")
