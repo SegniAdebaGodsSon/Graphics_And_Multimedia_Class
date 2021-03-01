@@ -92,3 +92,4 @@ while 1:
     pygame.display.flip()
     clock.tick(600)
 
+print("hi")
